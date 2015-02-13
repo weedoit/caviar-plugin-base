@@ -1,0 +1,3 @@
+define('Plugins/YourPluginName', function () {
+	// Code...
+});
