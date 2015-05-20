@@ -12,7 +12,7 @@
             "index.js"
         ],
         "css": [
-            "style.css"
+            "styles.css"
         ]
     }
 }
