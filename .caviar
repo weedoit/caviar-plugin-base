@@ -5,14 +5,5 @@
     "description": "A base to create Caviar plugins.",
     "authors": [
         "brunoziie <eu@brunoziie.com>"
-    ],
-
-    "assets": {
-        "js": [
-            "index.js"
-        ],
-        "css": [
-            "styles.css"
-        ]
-    }
+    ]
 }
